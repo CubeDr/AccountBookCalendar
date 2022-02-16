@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730934686028",
+    "project_id": "accountbookcalendar",
+    "storage_bucket": "accountbookcalendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730934686028:android:b7149adefb44388ddf1fe9",
+        "android_client_info": {
+          "package_name": "com.gmail.abc.abc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730934686028-08pf7m77tvv7csi8jm56la0mhae325re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.abc.abc",
+            "certificate_hash": "6b65ced2ccfe1a2ec98ef4ec8f2adb4576b57e3d"
+          }
+        },
+        {
+          "client_id": "730934686028-e1rtatdnb2c367pa6rfqc58ocoj4mg7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACFhoEM0mfyKJ4g62CGFDDzcB_eeGY2wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730934686028-e1rtatdnb2c367pa6rfqc58ocoj4mg7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
